@@ -1,0 +1,6 @@
+{
+  "name": "AIRWIN SALES REPORT - Agarsen Pipes & Fittings",
+  "description": "Native Android Sales Force Reporting application for AIRWIN Pipes & Tanks executives to record daily travel, counter visits, orders, collections, and expenses with automated management reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
